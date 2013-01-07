@@ -1,28 +1,27 @@
 LESS-CSS-Tutorial
 =================
 
-A repository for A13 (an ICS 691 course assignment).
-
-This is an Eclipse IDE "static web content" project.
+A repository for A13 (an ICS 691 course assignment).<br/>
+This is an Eclipse IDE "static web content" project.<br/>
 
 Disclaimers
 -----------
 All .html, .css, and .less code is based on 
 http://www.hongkiat.com/blog/less-css-tutorial-design-slick-menu-nav-bar/.
 
-To download lessc and the less javascript, see http://lesscss.org/.
-To download prefix-free, see http://leaverou.github.com/prefixfree/.
+To download lessc and the less javascript, see http://lesscss.org/.<br/>
+To download prefix-free, see http://leaverou.github.com/prefixfree/.<br/>
 
-This project is licensed under the 2-clause BSD license (see README.md).
+This project is licensed under the 2-clause BSD license (see README.md).<br/>
 
 Directory hierarchy
 -------------------
-/LESS-CSS-Tutorial
-    /WebContent
-        /css
-        /js
-        /less
-        /python
+/LESS-CSS-Tutorial<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;/WebContent<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/css<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/js<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/less<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/python<br/>
 
 WebContent contains the .html pages. index.html is dependent on the .less
 files, while index_css_version.html is dependent on the .css files generated

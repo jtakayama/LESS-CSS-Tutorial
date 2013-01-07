@@ -10,8 +10,10 @@ Disclaimers
 All .html, .css, and .less code is based on 
 http://www.hongkiat.com/blog/less-css-tutorial-design-slick-menu-nav-bar/.
 
-To download lessc and less-<version>.min.js, see http://lesscss.org/.
+To download lessc and the less javascript, see http://lesscss.org/.
 To download prefix-free, see http://leaverou.github.com/prefixfree/.
+
+This project is licensed under the 2-clause BSD license (see README.md).
 
 Directory hierarchy
 -------------------
